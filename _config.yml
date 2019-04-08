@@ -1,14 +1,14 @@
 # Site settings
 title: Surpiece blog
 description: "Surpiece blog"
-url: "http://www.surpiece.com/blog"
+url: "http://www.surpiece.com"
 author:
   name: "Bugra Ozkan"
   email: "info@surpiece.com"
   url: "http://www.surpiece.com"
 
 # Build settings
-baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
@@ -26,7 +26,7 @@ defaults:
       layout: "post"
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
 
 # Custom variables
