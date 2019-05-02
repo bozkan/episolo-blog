@@ -1,3 +1,20 @@
 /*- Custom style -*/
+$header-bg-color: #c7ecee;
+$font-color: rgba(0,0,0,0.8);
+$link-color: #95afc0;
 
-// -- Put custom style under this point -- //
+#header {
+    background-color: $header-bg-color;
+    color: $font-color;
+    &:after {
+        height: 0px;
+    }
+}
+
+.post a, #nav a {
+    color:#2E2E2E;
+}
+
+#nav-list:after {
+    background-color: rgba(0,0,0,0.8);
+}

@@ -61,8 +61,10 @@
 
 	  </div>
 	    
-	    <!-- Footer -->
-	    {% include footer.html %}
+      <!-- Footer -->
+      {% if site.include_footer == true %}
+        {% include footer.html %}
+      {% endif %}
 
 	    <!-- Script -->
       {% include script.html %}

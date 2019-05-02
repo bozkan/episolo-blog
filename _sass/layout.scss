@@ -68,7 +68,7 @@ html, body {
 #menu {
   height: 4px;
   width: 1.5em;
-  background-color: lighten($text-color, 35%);
+  background-color: rgba(0,0,0,0.8);
   margin-top: 8px;
   &:after, &:before {
     content: "";
@@ -76,7 +76,7 @@ html, body {
     position: relative;
     height: 4px;
     width: 1.5em;
-    background-color: lighten($text-color, 35%);
+    background-color: rgba(0,0,0,0.8);
     transition: all 0.3s ease-in;
   }
   &:before {
@@ -94,7 +94,6 @@ html, body {
        -moz-transform: rotate(-45deg);
         -ms-transform: rotate(-45deg);
             transform: rotate(-45deg);
-    background-color: $background-color;
   }
   &.btn-close:after {
     top: -4px;
@@ -102,7 +101,6 @@ html, body {
        -moz-transform: rotate(45deg);
         -ms-transform: rotate(45deg);
             transform: rotate(45deg);
-    background-color: $background-color;
   }
 }
 
