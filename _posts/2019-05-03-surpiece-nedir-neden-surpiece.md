@@ -1,4 +1,6 @@
-Surpiece nedir? Neden Surpiece?
+---
+title: Surpiece nedir? Neden Surpiece?
+---
 
 Uygulamaya koymayı planladığım bir kaç iş fikrinden birisi, sürpriz konseptine sahip. "Surprise" kelimesine fonetik açıdan yakın olması ve alan adının mevcut olması sebebiyle bu marka ismini seçmiştim birkaç ay önce.
 
