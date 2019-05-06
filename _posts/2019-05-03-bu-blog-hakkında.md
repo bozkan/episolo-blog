@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Bu Blog Hakkında
 ---
 ![Norrköping]({{site.baseurl}}/_posts/bg-norrkoping.jpg)
 
