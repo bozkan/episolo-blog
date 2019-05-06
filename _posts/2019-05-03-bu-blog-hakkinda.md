@@ -5,7 +5,7 @@ title: Bu blog hakkında
 ---
 ![Norrköping](/img/bg-norrkoping.jpg "Norrköping")
 
-Merhaba, ben Buğra Özkan. 30 yaşında bir bilgisayar mühendisiyim. Birkaç ay önce Londra'daki işimden ayrıldım ve eşimin yanına, Linköping'e yerleştim. Kendi işimi yapmaya karar verdim ikinci defa. Bu sefer çok daha tecrübeli, kararlı ve inançlıyım.
+Merhaba, ben Buğra Özkan. 30 yaşında bir bilgisayar mühendisiyim. Birkaç ay önce Londra'daki işimden ayrıldım ve eşimin yanına, Linköping'e yerleştim. Kendi işimi yapmaya karar verdim 3 sene sonra ikinci defa. Bu sefer çok daha tecrübeli, kararlı ve inançlıyım.
 
 Paylaşmanın başarının en büyük anahtarlarından birisi olduğunu biliyorum. Bu sebeple her hafta 1 blog yazmayı kendime hedef koydum. Bu blogda kısa ve uzun dönemli iş planlarımı, iş fikirlerimi, bu fikirleri uygulamaya nasıl döktüğümü ve nasıl pazarlamaya çalıştığımı anlatacağım. Anlatacaklarım bunlarla da sınırlı kalmayacak. Eski ama değerli tecrübelerimden de bahsedeceğim. Amerika'dan nasıl yatırım aldığımdan tutun, Londra'da maaşımı nasıl 3'e katladığıma dair tüm hikayemi paylaşmak istiyorum sizlerle. 
 
