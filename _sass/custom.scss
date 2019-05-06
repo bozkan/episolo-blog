@@ -11,10 +11,19 @@ $link-color: #f8c291;
     }
 }
 
+#container {
+    max-width: 930px;
+}
+
 .post a, #nav a {
     color:#2E2E2E;
 }
 
 #nav-list:after {
     background-color: rgba(0,0,0,0.8);
+}
+
+#post-page img {
+    position: absolute;
+    left: 0;
 }
