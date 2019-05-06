@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Bu blog hakkında
 ---
-![Norrköping](/emerald/img/bg-norrkoping.jpg "Test")
+![Norrköping](/surpiece/img/bg-norrkoping.jpg "Test")
 
 Merhaba, ben Buğra Özkan. 30 yaşında bir bilgisayar mühendisiyim. Birkaç ay önce Londra'daki işimden ayrıldım ve eşimin yanına, Linköping'e yerleştim. Kendi işimi yapmaya karar verdim ikinci defa. Bu sefer çok daha tecrübeli, kararlı ve inançlıyım.
 
