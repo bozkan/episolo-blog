@@ -5,8 +5,10 @@ $font-color: rgba(0,0,0,0.8);
 #header {
     background-color: $header-bg-color;
     color: $font-color;
+    padding: 5px 0;
     &:after {
         height: 0px;
+        margin: 4px auto;
     }
 }
 
