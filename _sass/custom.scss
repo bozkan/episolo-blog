@@ -1,7 +1,6 @@
 /*- Custom style -*/
 $header-bg-color: #ffeaa7;
 $font-color: rgba(0,0,0,0.8);
-$link-color: #f8c291;
 
 #header {
     background-color: $header-bg-color;
@@ -11,14 +10,36 @@ $link-color: #f8c291;
     }
 }
 
-#container {
-    max-width: 880px;
-}
-
 .post a, #nav a {
     color:#2E2E2E;
 }
 
 #nav-list:after {
     background-color: rgba(0,0,0,0.8);
+}
+
+.footer {
+    background-color: #f5f6fa;
+}
+
+#post-page .main-image {
+    max-width: 100%;
+}
+#container {
+    max-width: 100%;
+    padding: 0;
+}
+.post, #post-page {
+    max-width: 730px;
+    margin: 0 auto;
+}
+
+@media (min-width: 940px) {
+    h3 {
+        margin: 0 0 0.4em 0;
+        font-weight: 600;
+    }
+    p {
+        font-size: 1.1rem;
+    }
 }

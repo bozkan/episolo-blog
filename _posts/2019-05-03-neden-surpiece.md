@@ -2,6 +2,8 @@
 published: true
 layout: post
 title: Surpiece nedir? Neden Surpiece?
+image: /img/surpiece-logo.png
+image_title: Surpiece Logo
 ---
 Uygulamaya koymayı planladığım bir kaç iş fikrinden birisi, sürpriz konseptine sahip. "Surprise" kelimesine fonetik açıdan yakın olması ve alan adının mevcut olması sebebiyle bu marka ismini seçmiştim birkaç ay önce.
 
