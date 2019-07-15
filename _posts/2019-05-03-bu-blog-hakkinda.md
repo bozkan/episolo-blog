@@ -22,10 +22,10 @@ Takipte kalmak ve hiçbir yazıyı kaçırmamak için e-mail listesine kaydolmay
 
 <br/>
 
-**Dipnot:** Bir süre önce [Antler'e](https://www.antler.co/) başvurdum ve 1 hafta içerisinde Ağustos ayında Stockholm'de başlayacak ve 3 ay sürecek programlarına kabul edildim. Antler, birçok ülkede merkezi olan early-stage bir VC\*. 
+**Dipnot:** Bir süre önce [Antler'e](https://www.antler.co/) başvurdum ve 1 hafta içerisinde kabul aldım. Program 12 Ağustos'ta Stockholm'de başlayacak ve en az 3 ay sürecek. Antler, birçok ülkede merkezi olan early-stage bir VC\*. Başvurmak isteyenler yukarıdaki linkten kolayca başvurularını gerçekleştirebilirler.
 
 Program ile ilgili tüm detayları başka bir yazıda anlatacağım.
 
-Kabul aldıktan sonra Ağustos'a kadar kendime **"8 Haftada 8 Proje"** ile meydan okumaya karar verdim. Biliyorum, çokça benzer challenge gördünüz son zamanlarda **maker** dünyasında. Ben ise bu işe trend olmasından dolayı değil, verimlilik ve pazarlama konularında kabuklarımı Ağustos'a kadar kırmak istemem sebebiyle kalkışıyorum.
+Kabul aldıktan sonra Ağustos'a kadar, aşkla sarıldığım bir iş fikri bulma, bunu hızlıca MVP'ye dönüştürme ve fikrin ideal olup olmadığını Product Hunt gibi kanallarla doğrulama kararı aldım. Tabii ki 1 haftalığına kısa bir Türkiye tatilim de olacak
 
 \*_Türkçe yazarken yabancı kelimeler kullanmama konusunda hassas bir insanım. Fakat 'early-stage VC' için Türkçe karşılığın 'erken evre risk sermayedarı" olması beni bu tür durumlarda üzülerek İngilizcesini kullanmaya itiyor, çünkü biliyorum ki Türkçesini anlayacak insan sayısı, İngilizcesini anlayacak insan sayısından çok daha fazla._
