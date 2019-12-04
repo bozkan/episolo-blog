@@ -17,7 +17,7 @@ Paylaşmanın başarının en büyük anahtarlarından birisi olduğunu biliyoru
 
 ### Peki Episolo nedir?
 
-Episolo, startupların uygun fiyatla tecrübeli mentörler bulabilmesini hedefleyen bir platform. Benim bir ortağım yok ve tek başına girişimci olmak çok zor ve yorucu olabiliyor.
+Episolo, startupların uygun fiyatla tecrübeli mentor bulabilmesini hedefleyen bir platform. Benim bir ortağım yok ve tek başına girişimci olmak çok zor ve yorucu olabiliyor. Geçtiğimiz ay, çok tecrübeli bir mentor ile çalıştım ve çok memnun kaldım. Bu hem
 
 Linköping'e yerleştikten hemen sonra [Antler'in](https://www.antler.co/) Stockholm'deki incubator programına başvurdum. İlk aşaması yaklaşık 10 hafta süren bu program ile ilgili tüm detayları 
 
