@@ -5,6 +5,8 @@ title: Surpiece nedir? Neden Surpiece?
 image: /img/surpiece-logo.png
 image_title: Surpiece Logo
 ---
+Yıllar önceki girişimimde en çok vakit harcadığım konulardan ikisi, marka adı ve sitenin tasarımıydı. O zamanlar Lean Startup nedir bilmeyen, MVP'yi ucundan duymuş ama sallamamış acemi, toy bir girişimciydim. Şimdiyse harcadığım o vakte ve emeğe hem acıyorum, hem de tecrübenin en iyi öğretmen olduğunu bildiğimden, iyi ki böyle amatörlükler sergilemişim diyorum. O tecrübeler sayesinde şimdi yola daha emin ve sağlam adımlarla çıkıyorum.
+
 Uygulamaya koymayı planladığım bir kaç iş fikrinden birisi, sürpriz konseptine sahip. "Surprise" kelimesine fonetik açıdan yakın olması ve alan adının mevcut olması sebebiyle bu marka ismini seçmiştim birkaç ay önce.
 
 İki haftada bir yeni bir iş fikrini uygulamaya geçirmeye karar verdiğimde ise, her uygulama için ayrı alan adı almamaya karar verdim. Bunun ise 2 sebebi var:
