@@ -1,11 +1,11 @@
 # Site settings
-title: Surpiece blog
-description: "Surpiece blog"
-url: "https://tr.surpiece.com"
+title: Episolo Blog
+description: "Episolo blog"
+url: "https://blog.episolo.com"
 author:
   name: "Bugra Ozkan"
-  email: "info@surpiece.com"
-  url: "https://www.surpiece.com"
+  email: "contact@episolo.com"
+  url: "https://www.episolo.com"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
